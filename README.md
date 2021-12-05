@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="Screenshots/login.png" alt="Logo" width="1000" height="700">
+    <img src="Screenshots/stat(6).png" alt="Logo" width="1000" height="700">
   </a>
 </div>
 
@@ -114,13 +114,13 @@ Screenshots
 
 <div align="center">
   <a href="https://github.com/VI-Suji/hack4tkm">
-    <img src="Screenshots/signup.png" alt="Logo" width="500" height="350">
+    <img src="Screenshots/stat(2).png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/hack4tkm">
-    <img src="Screenshots/main.png" alt="Logo" width="500" height="350">
+    <img src="Screenshots/stat(4).png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/hack4tkm">
-    <img src="Screenshots/user.png" alt="Logo" width="500" height="350">
+    <img src="Screenshots/stat(1).png" alt="Logo" width="500" height="350">
   </a>
 </div>
 
