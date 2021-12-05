@@ -41,11 +41,11 @@
 <!--MEMBERS-->
 ## Members 
 
-#### [Fardeen Khan]</br>
-#### [Fawas A E]</br>
-#### [Parth Pushpakumar]</br>
-#### [Faheem Fazir]</br>
-#### [Sujith V I]
+#### Fardeen Khan</br>
+#### Fawaz A E</br>
+#### Parth Pushpakumar</br>
+#### Faheem Fazir</br>
+#### Sujith V I
 
 
 
@@ -100,7 +100,7 @@ _Look for what you can do on the project after doing the following steps_
    ```sh
    git clone https://github.com/VI-Suji/hack4tkm.git
    ```
-2. Use Netbeans IDE packages
+2. Use php packages
 
 3. Run the project
 <p align="right">(<a href="#top">back to top</a>)</p>
@@ -117,7 +117,7 @@ Screenshots
     <img src="Screenshots/signup.png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/hack4tkm">
-    <img src="Screenshots/newfood.png" alt="Logo" width="500" height="350">
+    <img src="Screenshots/main.png" alt="Logo" width="500" height="350">
   </a>
    <a href="https://github.com/VI-Suji/hack4tkm">
     <img src="Screenshots/user.png" alt="Logo" width="500" height="350">
