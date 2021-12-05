@@ -31,6 +31,7 @@ echo "<script type='text/javascript'> document.location = 'otp.php'; </script>";
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Welcome</title>
+  <link rel = "icon" type = "image/png" href = "dist/img/user2-160x160.jpg"> 
 
   <!-- Google Font: Source Sans Pro -->
   <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback">
@@ -43,7 +44,7 @@ echo "<script type='text/javascript'> document.location = 'otp.php'; </script>";
 <!-- Automatic element centering -->
 <div class="lockscreen-wrapper">
   <div class="lockscreen-logo">
-    <a href="index2.html">ZING Welcomes You</a>
+    ZING Welcomes You
     <img width="250px" src="dist/img/user2-160x160.png">
   </div>
 

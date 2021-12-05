@@ -46,20 +46,7 @@
         <div class="dropdown-menu dropdown-menu-lg dropdown-menu-right">
           <span class="dropdown-item dropdown-header">15 Notifications</span>
           <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <i class="fas fa-envelope mr-2"></i> 4 new messages
-            <span class="float-right text-muted text-sm">3 mins</span>
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <i class="fas fa-users mr-2"></i> 8 friend requests
-            <span class="float-right text-muted text-sm">12 hours</span>
-          </a>
-          <div class="dropdown-divider"></div>
-          <a href="#" class="dropdown-item">
-            <i class="fas fa-file mr-2"></i> 3 new reports
-            <span class="float-right text-muted text-sm">2 days</span>
-          </a>
+          
           <div class="dropdown-divider"></div>
           <a href="#" class="dropdown-item dropdown-footer">See All Notifications</a>
         </div>
@@ -127,13 +114,25 @@
               <li class="nav-item">
                 <a href="./main.php" class="nav-link active">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>View 1</p>
+                  <p>General</p>
                 </a>
               </li>
               <li class="nav-item">
                 <a href="./stat.php" class="nav-link">
                   <i class="far fa-circle nav-icon"></i>
-                  <p>View 2</p>
+                  <p>Statistics</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="./table.php" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Datasets</p>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a href="./algorithm.php" class="nav-link">
+                  <i class="far fa-circle nav-icon"></i>
+                  <p>Algorithm</p>
                 </a>
               </li>
             </ul>

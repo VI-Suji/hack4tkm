@@ -126,7 +126,7 @@
         <div class="row">
     
           <!-- ./col -->
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-4 col-6">
             <!-- small box -->
             <div class="small-box bg-success">
               <div class="inner">
@@ -141,7 +141,7 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-4 col-6">
             <!-- small box -->
             <div class="small-box bg-info">
               <div class="inner">
@@ -157,7 +157,7 @@
           </div>
           
           <!-- ./col -->
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-4 col-6">
             <!-- small box -->
             <div class="small-box bg-danger">
               <div class="inner">
@@ -172,17 +172,33 @@
             </div>
           </div>
 
-          <div class="col-lg-3 col-6">
+          <div class="col-lg-4 col-6">
+            <!-- small box -->
+            <div class="small-box bg-danger">
+              <div class="inner">
+                <h3><?php echo htmlentities($w)?></h3>
+
+                <p>Weekly</p>
+              </div>
+              <div class="icon">
+                <i class="fas fa-align-justify"></i>
+              </div>
+              <a href="#" class="small-box-footer"><i class="fas fa-arrow-circle-right"></i></a>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-6">
             <!-- small box -->
             <div class="small-box bg-primary">
               <div class="inner">
-                <h4>Weekly limit : <?php echo htmlentities($w)?></h6>
-                <h4>Monthly limit : <?php echo htmlentities($m)?></h6>
+                <h3><?php echo htmlentities($m)?></h3>
+
+                <p>Monthly</p>
               </div>
               <div class="icon">
               <i class="fas fa-align-justify"></i>
               </div>
-              <a href="#" class="small-box-footer">More info <i class="fas fa-arrow-circle-right"></i></a>
+              <a href="#" class="small-box-footer"><i class="fas fa-arrow-circle-right"></i></a>
             </div>
           </div>
           <!-- ./col -->
