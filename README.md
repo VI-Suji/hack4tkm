@@ -54,7 +54,7 @@
 
 <div align="center">
   <a href="https://github.com/VI-Suji/NeWFood">
-    <img src="Screenshots/stat (7).png" alt="Logo" width="1000" height="700">
+    <img src="Screenshots/stat (7).png" alt="Logo" width="1000" height="600">
   </a>
 </div>
 
