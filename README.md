@@ -53,7 +53,7 @@
 ## About The Project
 
 <div align="center">
-  <a href="https://github.com/VI-Suji/NeWFood">
+  <a href="https://github.com/VI-Suji/hack4tkm">
     <img src="Screenshots/stat (7).png" alt="Logo" width="1000" height="600">
   </a>
 </div>
